@@ -8,4 +8,5 @@ The guac-install.sh script will also install the latest Java JDK 8 which is the 
 Much of this was taken from the following repos, but customized furher based on my personal preferences:
 
 https://github.com/MysticRyuujin/guac-install
+
 https://github.com/jasonvriends/guacamole
